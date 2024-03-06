@@ -1,7 +1,7 @@
 [
   {
     "name": "USDT",
-    "symbol": "USDT",
+    "symbol": "usdtusdtusdt",
     "contract": "usdtusdtusdt",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/USDT.png"
