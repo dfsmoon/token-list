@@ -18,34 +18,34 @@
     "symbol": "SATS",
     "contract": "satsstasstas",
     "precision": 8,
-    "logo": "https://dfs.land/assets/tokens/satsstasstas-SATS.png?v=3"
+    "logo": "https://dfs.land/assets/tokens/satsstasstas-SATS.png"
   },
     {
     "name": "ORDI",
     "symbol": "ORDI",
     "contract": "ordiordiordi",
     "precision": 8,
-    "logo": "https://dfs.land/assets/tokens/ordiordiordi-ORDI.png?v=3"
+    "logo": "https://dfs.land/assets/tokens/ordiordiordi-ORDI.png"
   },
   {
     "name": "BTC",
     "symbol": "BTC",
     "contract": "btcbtcbtcbtc",
     "precision": 8,
-    "logo": "https://dfs.land/assets/tokens/btcbtcbtcbtc-BTC.png?v=3"
+    "logo": "https://dfs.land/assets/tokens/btcbtcbtcbtc-BTC.png"
   },
     {
     "name": "MMSS",
     "symbol": "MMSS",
     "contract": "mmssmmssmmss",
     "precision": 8,
-    "logo": "https://dfs.land/assets/tokens/mmssmmssmmss-MMSS.png?v=3"
+    "logo": "https://dfs.land/assets/tokens/mmssmmssmmss-MMSS.png"
   },
   {
     "name": "RATS",
     "symbol": "RATS",
     "contract": "ratsratsrats",
     "precision": 8,
-    "logo": "https://dfs.land/assets/tokens/ratsratsrats-RATS.png?v=3"
+    "logo": "https://dfs.land/assets/tokens/ratsratsrats-RATS.png"
   },
 ]
