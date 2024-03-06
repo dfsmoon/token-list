@@ -6,4 +6,11 @@
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/USDT.png"
   },
+    {
+    "name": "DFS",
+    "symbol": "DFS",
+    "contract": "eosio.token",
+    "precision": 8,
+    "logo": "https://dfs.land/assets/icons/48x48.png"
+  },
 ]
