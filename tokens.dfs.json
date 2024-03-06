@@ -13,4 +13,39 @@
     "precision": 8,
     "logo": "https://dfs.land/assets/icons/48x48.png"
   },
+    {
+    "name": "SATS",
+    "symbol": "SATS",
+    "contract": "satsstasstas",
+    "precision": 8,
+    "logo": "https://dfs.land/assets/tokens/satsstasstas-SATS.png?v=3"
+  },
+    {
+    "name": "ORDI",
+    "symbol": "ORDI",
+    "contract": "ordiordiordi",
+    "precision": 8,
+    "logo": "https://dfs.land/assets/tokens/ordiordiordi-ORDI.png?v=3"
+  },
+  {
+    "name": "BTC",
+    "symbol": "BTC",
+    "contract": "btcbtcbtcbtc",
+    "precision": 8,
+    "logo": "https://dfs.land/assets/tokens/btcbtcbtcbtc-BTC.png?v=3"
+  },
+    {
+    "name": "MMSS",
+    "symbol": "MMSS",
+    "contract": "mmssmmssmmss",
+    "precision": 8,
+    "logo": "https://dfs.land/assets/tokens/mmssmmssmmss-MMSS.png?v=3"
+  },
+  {
+    "name": "RATS",
+    "symbol": "RATS",
+    "contract": "ratsratsrats",
+    "precision": 8,
+    "logo": "https://dfs.land/assets/tokens/ratsratsrats-RATS.png?v=3"
+  },
 ]
